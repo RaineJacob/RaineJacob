@@ -10,14 +10,14 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/nikhilverma-/" target="_blank">
+  <a href="https://www.linkedin.com/in/rainejacob" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
  
 
 
 
-  <a href="https://wa.me/916264714906" target="_blank">
+  <a href="https://wa.me/919993018835" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="center">Nikhil Verma 👩‍💻</h1>
+<h1 align="center">Raine Jacob👩‍💻</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm <b><mark>Nikhil Verma</mark></b><br><br>- 🔭 I’m an Experienced Android & Flutter developer. <br>- 📚 I'm currently learning MERN Stack<br>- 📫 How to reach me <b><a href="mailto:nikhilverma.nv345@gmail.com">nikhilverma.nv345@gmail.com</a></b></p>
+<p align="left">I'm <b><mark>Raine Jacob</mark></b><br><br>- 🔭 I’m a learner trying to explore different things. <br>- 📚 I'm currently learning Data Analytics<br>- 📫 How to reach me <b><a href="mailto:raine.jacob07@gmail.com">raine.jacob07@gmail.com</a></b></p>
 
 ###
 
