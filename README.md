@@ -46,21 +46,15 @@
 <div align="center">
   <img src="https://blog.accredian.com/wp-content/uploads/2019/04/Python-logo.jpg" height="28" width="33" alt="python logo"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="33" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="mongodb logo"  />
-  <img src="https://freebiehive.com/wp-content/uploads/2022/10/Google-flutter-logo.jpg" height="28" width="33" alt="flutter logo"  />
-  <img src="https://w7.pngwing.com/pngs/279/249/png-transparent-java-logo-programming-language-java-plum-miscellaneous-text-orange.png" height="28" width="33" alt="java logo"  />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/049/116/742/small_2x/microsoft-excel-icon-transparent-background-free-png.png" height="28" width="33" alt="Excel Logo"  />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" height="28" width="33" alt="SQL logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s" height="28" width="33" alt="AWS logo"  />
+  <img src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" height="28" width="33" alt="Power BI logo"  />
   
-  <img src="https://w7.pngwing.com/pngs/834/261/png-transparent-android-ios-handheld-devices-computer-file-android-android-logo-leaf-text-logo.png" height="28" width="33" alt="android logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lBiCBs6rfRVr7GMryzDw-LhHl3FCo6o4Gg&s" height="28" width="33" alt="Tableau logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="33" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="33" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="28" width="33" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="33" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="33" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" width="33" alt="next logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" width="33" alt="npm logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyEB8F5fXSJDp9gIkHVxPRriYyapk8-dMD1A&s" height="28" width="33" alt="Jupyter logo"  />
+
 </div>
 
 ###
