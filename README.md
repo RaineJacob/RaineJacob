@@ -31,7 +31,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&duration=3500&pause=1000&color=1b6fec&vCenter=true&width=535&height=30&lines=3%2B+years+of+coding+Experience;MERN+Stack+Developer.;Experienced+Flutter+Developer.;Proficient+Web+Developer+and+Designer.;Experienced+Android+App+Developer.;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&duration=3500&pause=1000&color=1b6fec&vCenter=true&width=535&height=30&lines=Advanced+Excel+User.;Python+Developer.;Data+Visualizer.;+Database+Management" alt="Typing SVG" />
 
 ###
 
