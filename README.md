@@ -49,7 +49,7 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/049/116/742/small_2x/microsoft-excel-icon-transparent-background-free-png.png" height="28" width="33" alt="Excel Logo"  />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" height="28" width="33" alt="SQL logo"  />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s" height="28" width="33" alt="AWS logo"  />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F400711%2Fpower-bi-microsoft&psig=AOvVaw3Z72JaMzblCZeCf2QX1qjt&ust=1747497583671000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjBxv6tqI0DFQAAAAAdAAAAABAE" height="28" width="33" alt="Power BI logo"  />
+  <img src="https://www.google.com/imgres?q=power%20bi%20logo&imgurl=https%3A%2F%2Fmarketplace.topdesk.com%2Fwp-content%2Fuploads%2F2018%2F02%2Fpowerbi-logo.png&imgrefurl=https%3A%2F%2Fmarketplace.topdesk.com%2Fpowerbi-logo%2F&docid=fLG1yHUSvdAAuM&tbnid=7qoAjdXj3qXkYM&vet=12ahUKEwiF85v2raiNAxXeyjgGHZnpLewQM3oECHUQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiF85v2raiNAxXeyjgGHZnpLewQM3oECHUQAA" height="28" width="33" alt="Power BI logo"  />
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lBiCBs6rfRVr7GMryzDw-LhHl3FCo6o4Gg&s" height="28" width="33" alt="Tableau logo"  />
   
